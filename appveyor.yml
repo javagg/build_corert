@@ -5,3 +5,10 @@ init:
 
 build_script:
   - build.bat
+
+test: off
+
+artifacts:
+  - path: corert\bin\Windows_NT.x64.Debug
+  
+  
