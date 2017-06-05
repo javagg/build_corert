@@ -9,6 +9,6 @@ build_script:
 test: off
 
 artifacts:
-  - path: corert\bin\Windows_NT.x64.Debug
+  - path: corert\bin\Product\Windows_NT.x64.Debug
   
   
